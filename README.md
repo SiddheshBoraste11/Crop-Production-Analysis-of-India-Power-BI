@@ -1,5 +1,4 @@
-# Crop-Production-Analysis-of-India-Power-BI
-
+# Crop Production Analysis of India | Power BI
 📌 Project Overview
 
 This project analyzes agricultural crop production across India using an interactive Power BI dashboard. The objective is to identify production trends, seasonal patterns, and regional performance to support data-driven agricultural insights and planning.
@@ -7,34 +6,47 @@ This project analyzes agricultural crop production across India using an interac
 📊 Dataset
 
 Crop production dataset of India (state- and district-level data)
+
 Attributes include state, district, crop, season, year, area, and production
 
 🛠 Tools & Technologies
 
 Power BI
+
 DAX for calculated measures
+
 Data cleaning, modeling, and visualization
 
 📈 Key Metrics
 
 Total Production
+
 Average Production
+
 Crop Efficiency
+
 Crop Diversity Index
+
 Top Producing State
+
 Top Crop
 
 🔍 Analysis Performed
 
 Crop production analysis by state, district, crop type, season, and year
+
 Seasonal analysis across Kharif, Rabi, Summer, Winter, and Whole Year
+
 Productivity analysis using area vs production
+
 Geographic analysis using map visualizations
 
 💡 Key Insights
 
 Identification of top-producing states and crops
+
 Seasonal patterns influencing production volumes
+
 Variation in productivity and crop diversity across regions
 
 🚀 Outcome
